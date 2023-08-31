@@ -1,0 +1,72 @@
+.bg{
+	height: 100vh;
+    background-image: url(bg.jpg);
+    height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+  width: 490px;
+  border:5px solid white; 
+  padding:0px; 
+  margin:5px”
+}
+
+.subimg{
+	display:block;
+	margin-left: auto;
+	margin-right: auto; 
+    width: 300px;
+	padding:3px; 
+	margin:5px”
+}
+
+
+.box
+{
+  width: 98%;
+  border: 5px double black;
+  padding: 10px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+p{
+  font-family:Garamond;
+  font-size: 20;
+}
+heading{
+	font-size:50;
+	line-height: 0px;
+}
+subheading{
+	font-size:30;
+	line-height: 10px;
+}
+
+.aimg{
+	float:left;
+	width:25%
+}
+.aimg2{
+	float:right;
+	width:25%;
+}
+.menubar{
+	width:100%;
+	border-collapse: collapse; 
+	background-color: #04AA6D;
+	font-size:30;
+	border: 2px solid black;
+	text-align: center;
+}
+.menubar a, a:hover, a:focus, a:active {
+	
+text-decoration: none;
+color: white;
+}
